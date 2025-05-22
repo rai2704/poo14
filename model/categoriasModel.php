@@ -1,5 +1,5 @@
 <?php
-    require_once './config/conexao.php';
+    require_once PATH . '/config/conexao.php';
 
     class Categorias {
         private $conn;

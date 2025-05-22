@@ -1,5 +1,5 @@
 <?php
-    const NOME = 'Raimundo Barbosa';    
-    define('NOME2', 'Raimundo Barbosa');
+    define('PATH', $_SERVER['DOCUMENT_ROOT'] . '/poo14/');
+
 ?>
    

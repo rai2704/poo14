@@ -1,6 +1,6 @@
 <?php 
 //Conexão com o banco de dados em PDO
-require_once './config/config.inc.php';
+require_once PATH. '/config/config.inc.php';
 class Conexao {
     private static $instance = null;
     private $conn;
